@@ -407,19 +407,73 @@ sets
 5. enclosed {}
 
 
+*********************************Day 03**********************************************
 
 
+Functions
+---------
+1. create a function
+2. call the function
+3. pass arguments
+4. return value
+5. variable length arg
+6. help
+7. lambdas
+8. comprehensions - list, dictionary
+9. scope of a variable
+10. decorator
 
 
+comprehensions
+--------------
+iteration of a collection using lambda syntaxes
 
 
+Scope of a variable
+-------------------
+1. global
+2. local
+3. non local
 
 
+def fetchData(qry):
+	
+	1000000	=> records
 
 
+timestamp 
+
+fetchData
+
+timestamp
 
 
+------------------------------------------------------------------------------
 
+Modules - Libraries - any python file can be treated as a module
+
+
+Packages - folders or directories that will have these modules stored in it
+
+
+import
+-------
+import package.modulename
+
+import module
+
+from module import (class, function, variable)
+
+
+import a module
+----------------
+create a folder __pycache__
+inside the folder we will have a compiled copy of the module
+
+normal python = filename.py
+compiled file = filename.pyc
+
+When you create an instance of a child class in Java, by default, an instance of the parent class is also created. This happens because the child class constructor implicitly calls the parent class constructor using the super() statement as the first line of the child class constructor.
 
 
 
